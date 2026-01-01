@@ -55,17 +55,18 @@ Le code source n'est pas disponible pour des raisons académiques.
 
 ## Démonstration
 
-### Regarder la vidéo
+### Regarder la vidéo (cmd + click)
 
-[▶ Cliquez ici pour ouvrir la vidéo](https://rajbhanif.github.io/facial-recognition-pi/facial-recognition.mp4)
+<a href="https://rajbhanif.github.io/facial-recognition-pi/facial-recognition.mp4" target="_blank">▶ Cliquez ici pour ouvrir la vidéo</a>
 
 *La vidéo s'ouvrira directement dans votre navigateur*
 
 ### Lecture intégrée
 
 <div align="center">
-  <video width="90%" controls>
-    <source src="facial-recognition-pi.mp4" type="video/mp4">
+  <video width="90%" controls playsinline>
+    <source src="https://raw.githubusercontent.com/rajbhanif/facial-recognition-pi/main/facial-recognition.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
 </div>
 
