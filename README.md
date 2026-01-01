@@ -1,13 +1,76 @@
-# Facial Recognition Security System
+# Système de Sécurité par Reconnaissance Faciale
 
-A hardware-based security system using Raspberry Pi for facial recognition access control. Activates via TouchSwitch, identifies individuals through camera, and provides visual/auditory feedback via LED indicators and buzzer.
+Un système de sécurité intelligent basé sur la reconnaissance faciale utilisant Raspberry Pi. Ce projet offre un contrôle d'accès sécurisé pour les entreprises ou les habitations, avec une activation par bouton tactile et un retour visuel/sonore immédiat.
 
-## Features
-- **TouchSwitch Activation** - Physical button to activate/deactivate system
-- **Real-time Facial Recognition** - Camera-based face identification
-- **Dual Feedback System**:
-  - Green LED for authorized access
-  - Red LED + Buzzer alarm for unauthorized access
-- **Permission Management** - Only authorized users can terminate system
-- **Hardware Integration** - Complete control via GPIO pins
+## Aperçu du Projet
 
+Ce système de sécurité IoT combine matériel et logiciel pour créer une solution de contrôle d'accès fiable. Lorsqu'un utilisateur active le système via le TouchSwitch, la caméra capture et analyse les visages en temps réel. Le système détermine si la personne est autorisée et répond instantanément avec des indicateurs LED et une alarme sonore.
+
+## Fonctionnalités
+
+### Contrôle d'Accès Intelligent
+- Activation par TouchSwitch - Interface physique simple pour activer/désactiver
+- Reconnaissance Faciale en Temps Réel - Analyse instantanée des visages via caméra
+- Système de Retour Dual :
+  - LED Verte - Accès autorisé
+  - LED Rouge + Buzzer - Accès non autorisé avec alarme
+- Gestion des Permissions - Seuls les utilisateurs autorisés peuvent arrêter le système
+- Base de Données Sécurisée - Stockage local des visages autorisés
+
+### Caractéristiques Techniques
+- Intégration Matérielle Complète - Contrôle GPIO des capteurs et actionneurs
+- Performance Optimisée - Fonctionne efficacement sur Raspberry Pi
+- Interface Utilisateur Intuitive - Retour visuel et sonore clair
+- Configuration Flexible - Paramètres ajustables selon les besoins
+
+## Matériel 
+
+| Composant | Quantité | Rôle |
+|-----------|----------|------|
+| Raspberry Pi (3/4/Zero) | 1 | Contrôleur principal |
+| Module Caméra Raspberry Pi | 1 | Capture des visages |
+| Bouton Tactile (TouchSwitch) | 1 | Activation du système |
+| LED Double Couleur (RGB) | 1 | Indicateur d'état |
+| Buzzer Actif | 1 | Alarme sonore |
+| Câbles Dupont | 10 | Connexions |
+| Breadboard | 1 | Prototypage |
+| Alimentation 5V/3A | 1 | Alimentation |
+
+
+## Comment Utiliser
+
+### Processus d'Accès :
+1. Activation : Appuyer sur le TouchSwitch (LED verte clignote)
+2. Identification : Se placer face à la caméra
+3. Résultat :
+   - Accès Autorisé : LED verte allumée, accès accordé
+   - Accès Refusé : LED rouge + alarme buzzer pendant 5 secondes
+4. Désactivation : Appuyer à nouveau sur le TouchSwitch (utilisateurs autorisés seulement)
+
+
+## Projet Scolaire - Non partageable
+
+Ce projet a été développé dans le cadre du cours d'objets connectés.
+Le code source n'est pas disponible pour des raisons académiques.
+
+## Démonstration
+
+### Regarder la vidéo
+
+[▶Cliquez ici pour ouvrir la vidéo](https://github.com/rajbhanif/facial-recognition-pi/raw/main/facial-recognition.mp4)
+
+*La vidéo s'ouvrira directement dans votre navigateur*
+
+### Lecture intégrée
+
+<div align="center">
+  <video width="90%" controls>
+    <source src="demo.mp4" type="video/mp4">
+  </video>
+</div>
+
+*Processus complet : Activation → Scan facial → Résultat d'autorisation*
+
+## Auteur
+**Raj Beghum Hanif**  
+Projet académique - Cours d'objets connectés
