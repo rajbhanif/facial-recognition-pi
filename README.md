@@ -56,6 +56,7 @@ Le code source n'est pas disponible pour des raisons académiques.
 ## Démonstration
 
 ### Regarder la vidéo (cmd + click)
+*Processus complet : Activation → Scan facial → Résultat d'autorisation*
 
 <a href="https://rajbhanif.github.io/facial-recognition-pi/facial-recognition.mp4" target="_blank">▶ Cliquez ici pour ouvrir la vidéo</a>
 
@@ -71,13 +72,13 @@ Le code source n'est pas disponible pour des raisons académiques.
 </div>
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/rajbhanif/facial-recognition-pi/main/facial-recognition.mp4" width="100%" controls>
-    Votre navigateur ne supporte pas la lecture de vidéos HTML5. 
-    <a href="https://rajbhanif.github.io/facial-recognition-pi/facial-recognition.mp4">Cliquez ici pour télécharger la vidéo.</a>
-  </video>
+  <a href="https://rajbhanif.github.io/facial-recognition-pi/facial-recognition.mp4" target="_blank">
+    <img src="https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg" alt="Regarder la démo" style="width:100%; max-width:600px; border-radius: 10px;">
+    <br>
+    <b>▶ Cliquez ici pour lancer la démonstration vidéo</b>
+  </a>
+  <p><i>(Aperçu interactif : Activation → Scan facial → Résultat)</i></p>
 </div>
-
-*Processus complet : Activation → Scan facial → Résultat d'autorisation*
 
 ## Auteur
 **Raj Beghum Hanif**  
