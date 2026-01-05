@@ -71,14 +71,6 @@ Le code source n'est pas disponible pour des raisons académiques.
   </video>
 </div>
 
-<div align="center">
-  <a href="https://rajbhanif.github.io/facial-recognition-pi/facial-recognition.mp4" target="_blank">
-    <img src="https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg" alt="Regarder la démo" style="width:100%; max-width:600px; border-radius: 10px;">
-    <br>
-    <b>▶ Cliquez ici pour lancer la démonstration vidéo</b>
-  </a>
-  <p><i>(Aperçu interactif : Activation → Scan facial → Résultat)</i></p>
-</div>
 
 ## Auteur
 **Raj Beghum Hanif**  
