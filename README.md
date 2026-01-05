@@ -64,14 +64,6 @@ Le code source n'est pas disponible pour des raisons académiques.
 
 ### Lecture intégrée
 
-<div align="center">
-  <video width="90%" controls playsinline>
-    <source src="https://raw.githubusercontent.com/rajbhanif/facial-recognition-pi/main/facial-recognition.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-
 ## Auteur
 **Raj Beghum Hanif**  
 Projet académique - Cours d'objets connectés
