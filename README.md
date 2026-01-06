@@ -62,7 +62,7 @@ Le code source n'est pas disponible pour des raisons académiques.
 
 *La vidéo s'ouvrira directement dans votre navigateur*
 
-### Lecture intégrée
+
 
 ## Auteur
 **Raj Beghum Hanif**  
