@@ -64,6 +64,6 @@ Le code source n'est pas disponible pour des raisons académiques.
 
 
 
-## Auteur
+## Autrice
 **Raj Beghum Hanif**  
 Projet académique - Cours d'objets connectés
